@@ -1,0 +1,17 @@
+{
+  "name": "europa-site-downloader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json2csv": "^5.0.7",
+    "node-fetch": "^3.2.8"
+  }
+}
